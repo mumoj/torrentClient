@@ -23,9 +23,9 @@ dependencies {
     // This dependency is used by the application.
     implementation 'com.google.guava:guava:31.1-jre'
 
-    implementation 'com.frostwire:jlibtorrent:1.2.0.18'
+    implementation 'com.frostwire:jlibtorrent:1.2.0.9'
     
-    implementation 'com.frostwire:jlibtorrent-linux:1.2.0.18'
+    implementation 'com.frostwire:jlibtorrent-linux:1.2.0.9'
 }
 
 application {
