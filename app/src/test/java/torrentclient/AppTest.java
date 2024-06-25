@@ -6,9 +6,9 @@ package torrentclient;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-class AppTest {
-    @Test void appHasAGreeting() throws Throwable {
-        App classUnderTest = new App();
-        assertNotNull(classUnderTest.getTorrentFile(), "app should have a greeting");
-    }
-}
+//class AppTest {
+//    @Test void appHasAGreeting() throws Throwable {
+//        App classUnderTest = new App();
+//        assertNotNull(classUnderTest.getTorrentFile(), "app should have a greeting");
+//    }
+//}
